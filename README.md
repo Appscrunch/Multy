@@ -8,12 +8,15 @@ Mylty-IOS - https://github.com/Appscrunch/Mylty-IOS
 
 Multy-Core - https://github.com/Appscrunch/Multy-Core
 
-Multy-backend - 
+Multy-backend - https://github.com/Appscrunch/Multy-back
 
 
 Special thanks to:
 
-cyber.Node
+cyberNode - https://github.com/cyberFund/cybernode
 
-cyber.Search
+cyberSearch - https://github.com/cyberFund/cyber-search
+
+[cyber Markets](https://github.com/cyberFund/cyber-markets)
+
 
