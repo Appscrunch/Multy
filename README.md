@@ -6,7 +6,7 @@ Multy-android - https://github.com/Appscrunch/Mylty-android
 
 Mylty-IOS - https://github.com/Appscrunch/Mylty-IOS
 
-Multy-Core - 
+Multy-Core - https://github.com/Appscrunch/Multy-Core
 
 Multy-backend - 
 
