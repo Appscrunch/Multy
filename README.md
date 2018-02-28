@@ -24,8 +24,9 @@ Special thanks to:
 
 
 Multy addresses:
+
 |--|--|
-|btc|value|
-|bitshare|multy-io|
-|golos|multyio|
-|steemet|multy-io|
+| btc | value |
+| bitshare | multy-io |
+| golos | multyio |
+| steemet | multy-io |
