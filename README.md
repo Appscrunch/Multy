@@ -27,7 +27,8 @@ Multy addresses:
 
 | BlockChain | Address | link to check |
 |--|----|--|
-| btc | value |
-| bitshare | multy-io |
-| golos | multyio |
-| steemet | multy-io |
+| btc | 3EJD9tJX3QfCF5pX9ZWCgbEmU4SYeG12LZ | https://live.blockcypher.com/btc/address/3EJD9tJX3QfCF5pX9ZWCgbEmU4SYeG12LZ/ |
+| bitshare | multy-io | http://bitshares-explorer.io/#/accounts/multy-io |
+| bitshare | multy-extreme | http://bitshares-explorer.io/#/accounts/multy-extreme |
+| golos | multy | https://golos.io/@multy/transfers |
+| steemet | multy-io | https://steemit.com/@multy-io/transfers |
