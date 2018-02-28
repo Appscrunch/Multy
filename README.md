@@ -20,3 +20,12 @@ Special thanks to:
 [cyber.Markets](https://github.com/cyberFund/cyber-markets)
 
 
+
+
+
+Multy addresses:
+|--|--|
+|btc|value|
+|bitshare|multy-io|
+|golos|multyio|
+|steemet|multy-io|
