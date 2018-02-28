@@ -25,7 +25,8 @@ Special thanks to:
 
 Multy addresses:
 
-|--|--|
+| BlockChain | Address | link to check |
+|--|----|--|
 | btc | value |
 | bitshare | multy-io |
 | golos | multyio |
